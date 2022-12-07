@@ -1,0 +1,30 @@
+33D32945 STP File, STP Format Version 1.0
+Section Comment
+Name    "hc7u"
+Creator "I. Rosseti, M. Poggi de Aragao, C.C. Ribeiro, E. Uchoa, and R.F.Werneck"
+Remark  "Hypercube instance"
+End
+
+SECTION Graph
+Nodes 8
+Edges 11
+E 1 2 10
+E 3 1 19
+E 5 3 8
+E 6 7 90
+E 8 1 22
+E 4 6 88
+E 3 8 88
+E 1 5 22
+E 6 2 12
+E 6 3 99
+E 8 4 50
+End
+
+Section Terminals
+Terminals 2
+T 1
+T 4
+End
+
+EOF
